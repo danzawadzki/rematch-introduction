@@ -1,0 +1,16 @@
+{
+  "name": "rematch-introduction",
+  "version": "1.0.0",
+  "description": "An introduction to the rematch framework based on it's documentation.",
+  "main": "index.js",
+  "repository": "git@github.com:danzawadzki/rematch-introduction.git",
+  "author": "Daniel Zawadzki <hello@danielzawadzki.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@rematch/core": "^1.1.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-redux": "^6.0.1"
+  }
+}
