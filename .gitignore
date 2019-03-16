@@ -62,3 +62,7 @@ typings/
 
 # others
 .idea*
+
+# parcel
+dist
+.cache
